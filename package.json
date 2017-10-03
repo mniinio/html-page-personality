@@ -1,0 +1,17 @@
+{
+  "name": "html-page-reader",
+  "version": "1.0.0",
+  "description": "read html page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jani Iivari <jani.iivari@digia.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "request": "^2.83.0",
+    "textract": "^2.2.0",
+    "url": "^0.11.0"
+  }
+}
