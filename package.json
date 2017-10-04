@@ -4,7 +4,9 @@
   "description": "read html page ",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js",
+    "test": "mocha test",
+    "build": "echo 'running build' && npm run test"
   },
   "author": "Jani Iivari <jani.iivari@digia.com>",
   "license": "ISC",
@@ -13,5 +15,9 @@
     "request": "^2.83.0",
     "textract": "^2.2.0",
     "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
   }
 }
