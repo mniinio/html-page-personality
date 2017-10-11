@@ -2,13 +2,31 @@ var textract = require('textract');
 var express = require('express'); // Express web server framework
 var request = require('request'); // "Request" library
 //  var qs = require('querystring'); // "querystring library
+var fs = require('fs');
+var jquery = require('json-query');
+var mydata = require('./data.json');
 
 var app = express();
 var port = 3000;
+require('dotenv').config();
 
 // simple GET method starts here ->
 app.get('/api/simpleget', function(req,res) {
 
+  var data;
+  if (req.query.companyname == null) {
+    adr = false;
+    res.type('text/plain');
+    res.set('Content-Length', Buffer.byteLength('set url query parameter'));
+    res.status(200).send('set companyname query parameter');
+  } else {
+      console.log(mydata);
+      var value = mydata.companies[1].name;
+      value = jquery('companies[name=nokia].url', {
+        rootContext: mydata
+      }).value
+  }
+  console.log(value);
   if (req.query.url == null) {
     adr = false;
     res.type('text/plain');
@@ -43,11 +61,17 @@ app.get('/api/simpleget', function(req,res) {
   }
 
   const personalityinsights = function(data) {
-    var username = '';
-    var password = '';
+    // var username = user_name;
+    // var password = password;
+    // console.log(username);
+
+    var username = process.env.IBM_USER_NAME; // Your client id
+    var password = process.env.IBM_PASSWORD; // Your secret
+    console.log(username);
+    console.log(password);
     uri = 'https://gateway-fra.watsonplatform.net/personality-insights/api/v3/profile?version=2016-10-20&consumption_preferences=true&raw_scores=true';
 
-    console.log(data);
+    // console.log(data);
     var options = {
       'method': 'POST',
       'uri': uri,

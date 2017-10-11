@@ -1,0 +1,7 @@
+---
+applications:
+- name: html-page-reader
+  disk: 1024M
+  memory: 128M
+  path: .
+  random-route: true

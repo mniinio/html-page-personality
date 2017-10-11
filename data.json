@@ -1,0 +1,14 @@
+{
+  "companies": [
+    {
+      "name": "nokia",
+      "url": "https://www.nokia.com/en_int/about-us/who-we-are",
+      "url2": "https://en.wikipedia.org/wiki/Nokia"
+    },
+    {
+      "name": "nokia2",
+      "url": "https://www.nokia.com/en_int/about-us/who-we-are",
+      "url2": "https://en.wikipedia.org/wiki/Nokia"
+    }
+  ]
+}
