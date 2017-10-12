@@ -2,6 +2,6 @@
 applications:
 - name: html-page-reader
   disk: 1024M
-  memory: 128M
+  memory: 1024M
   path: .
   random-route: true
