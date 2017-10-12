@@ -17,23 +17,15 @@ app.get('/api/simpleget', function(req,res) {
   if (req.query.companyname == null) {
     adr = false;
     res.type('text/plain');
-    res.set('Content-Length', Buffer.byteLength('set url query parameter'));
+    res.set('Content-Length', Buffer.byteLength('set companyname query parameter'));
     res.status(200).send('set companyname query parameter');
   } else {
-      console.log(mydata);
-      var value = mydata.companies[1].name;
-      value = jquery('companies[name=nokia].url', {
-        rootContext: mydata
-      }).value
-  }
-  console.log(value);
-  if (req.query.url == null) {
-    adr = false;
-    res.type('text/plain');
-    res.set('Content-Length', Buffer.byteLength('set url query parameter'));
-    res.status(200).send('set url query parameter');
-  } else {
-    adr = req.query.url;
+    console.log(mydata);
+    var value = mydata.companies[1].name;
+    adr = jquery('companies[name='+req.query.companyname+'].url2', {
+      rootContext: mydata
+    }).value
+    console.log(adr);
     var url = require('url');
     //var adr = 'https://en.wikipedia.org/wiki/Node.js';
     var q = url.parse(adr, true);
@@ -88,7 +80,32 @@ app.get('/api/simpleget', function(req,res) {
           resolve(error.message)
         } else {
           jsonContent = JSON.parse(body);
-          message = JSON.stringify(jsonContent);
+
+          var returnJson = {};
+          var key = 'needs';
+          returnJson[key] = [];
+          var returnRaw = false;
+          var data = {};
+
+          for (var index in jsonContent.needs){
+            if (jsonContent.needs[index].name == null) {
+              data = {};
+            } else {
+              data = {
+                'trait_id': jsonContent.needs[index].trait_id,
+                'name': jsonContent.needs[index].name,
+                'percentile': jsonContent.needs[index].percentile,
+                'raw_score': jsonContent.needs[index].raw_score
+              }
+            }
+            returnJson[key].push(data);
+          }
+
+          if (returnRaw == true) {
+            message = JSON.stringify(jsonContent)
+          } else {
+            message = JSON.stringify(returnJson);
+          }
         }
         resolve(message)
       });
