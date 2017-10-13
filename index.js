@@ -31,7 +31,7 @@ app.get('/api/url2png', function(req,res) {
         //   }
         // };
 
-        var uri ='https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?api_key='+vrAPIkey+'&version=2016-05-20&classifier_ids=' + vrclassids;
+        var uri ='https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?api_key='+vrAPIkey+'&version=2016-05-20&threshold=0&classifier_ids=' + vrclassids;
         var options = {
         'method': 'POST',
         'uri': uri,
