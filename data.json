@@ -1,14 +1,4789 @@
 {
   "companies": [
     {
-      "name": "nokia",
-      "url": "https://www.nokia.com/en_int/about-us/who-we-are",
-      "url2": "https://en.wikipedia.org/wiki/Nokia"
+      "name": "2nd opinion",
+      "url": "http://2ndopinion.com/",
+      "url2": ""
     },
     {
-      "name": "nokia2",
-      "url": "https://www.nokia.com/en_int/about-us/who-we-are",
-      "url2": "https://en.wikipedia.org/wiki/Nokia"
+      "name": "3 step it oy",
+      "url": "https://www.3stepit.com/",
+      "url2": ""
+    },
+    {
+      "name": "3d bi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "7n",
+      "url": "https://www.7n.com/",
+      "url2": ""
+    },
+    {
+      "name": "7n finland oy",
+      "url": "https://www.7n.com/",
+      "url2": ""
+    },
+    {
+      "name": "aalto executive education",
+      "url": "https://www.aaltoee.com/",
+      "url2": "https://www.aaltoee.com/about-us"
+    },
+    {
+      "name": "aalto university",
+      "url": "http://www.aalto.fi/en/",
+      "url2": "http://www.aalto.fi/en/about/careers/"
+    },
+    {
+      "name": "aalto university executive education",
+      "url": "https://www.aaltoee.com/",
+      "url2": "https://www.aaltoee.com/about-us"
+    },
+    {
+      "name": "aalto yliopisto",
+      "url": "http://www.aalto.fi/en/",
+      "url2": "http://www.aalto.fi/en/about/careers/"
+    },
+    {
+      "name": "aalto-yliopisto",
+      "url": "http://www.aalto.fi/en/",
+      "url2": "http://www.aalto.fi/en/about/careers/"
+    },
+    {
+      "name": "aapa-verkosto (amk:ien tietohallintojohtajat) / c/o haaga-helia amk",
+      "url": "https://tt.eduuni.fi/sites/aapa/public/sitepages/home.aspx",
+      "url2": ""
+    },
+    {
+      "name": "aava ohjelmistot oy",
+      "url": "http://www.aavaohjelmistot.fi/",
+      "url2": ""
+    },
+    {
+      "name": "ab24 oy",
+      "url": "https://www.ab24.fi/",
+      "url2": ""
+    },
+    {
+      "name": "abb",
+      "url": "http://new.abb.com/",
+      "url2": ""
+    },
+    {
+      "name": "abb oy",
+      "url": "http://new.abb.com/",
+      "url2": ""
+    },
+    {
+      "name": "abbvie oy",
+      "url": "https://www.abbvie.com/",
+      "url2": ""
+    },
+    {
+      "name": "abicorfin oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "acc orlando oy",
+      "url": "http://www.accorlando.fi/english/",
+      "url2": ""
+    },
+    {
+      "name": "accenture",
+      "url": "https://www.accenture.com/fi-en/new-applied-now",
+      "url2": ""
+    },
+    {
+      "name": "accenture oyj",
+      "url": "https://www.accenture.com/fi-en/new-applied-now",
+      "url2": ""
+    },
+    {
+      "name": "accounting name",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "acd consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "acme limo service",
+      "url": "http://acmelimoservice.com/",
+      "url2": ""
+    },
+    {
+      "name": "actility",
+      "url": "https://www.actility.com/",
+      "url2": ""
+    },
+    {
+      "name": "action-e-machines oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "aditro shared services oy",
+      "url": "http://www.aditro.com/",
+      "url2": ""
+    },
+    {
+      "name": "admares group oy",
+      "url": "http://admares.com/",
+      "url2": ""
+    },
+    {
+      "name": "advance b2b",
+      "url": "https://www.advanceb2b.com/",
+      "url2": ""
+    },
+    {
+      "name": "advance it solutions oy",
+      "url": "http://www.advance.fi/",
+      "url2": ""
+    },
+    {
+      "name": "advocorp oy",
+      "url": "http://advocorp.fi/",
+      "url2": ""
+    },
+    {
+      "name": "affecto",
+      "url": "https://www.cgi.com/en",
+      "url2": ""
+    },
+    {
+      "name": "affecto finland",
+      "url": "https://www.cgi.com/en",
+      "url2": ""
+    },
+    {
+      "name": "affecto finland oy",
+      "url": "https://www.cgi.com/en",
+      "url2": ""
+    },
+    {
+      "name": "affecto oy",
+      "url": "https://www.cgi.com/en",
+      "url2": ""
+    },
+    {
+      "name": "affecto oyj",
+      "url": "https://www.cgi.com/en",
+      "url2": ""
+    },
+    {
+      "name": "ai robots oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ain1",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ain1 oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "air navigation services finland oy",
+      "url": "https://ansfinland.fi/en",
+      "url2": ""
+    },
+    {
+      "name": "aitosoft oy",
+      "url": "http://www.aitosoft.com/",
+      "url2": ""
+    },
+    {
+      "name": "ajan consulting oy & serres group oy",
+      "url": "http://www.ajanconsulting.com/",
+      "url2": ""
+    },
+    {
+      "name": "aku meriläinen",
+      "url": "http://www.akumerilainen.com/",
+      "url2": ""
+    },
+    {
+      "name": "ald automotive",
+      "url": "http://www.aldautomotive.com/",
+      "url2": ""
+    },
+    {
+      "name": "algol oy",
+      "url": "http://www.algol.fi/en/",
+      "url2": ""
+    },
+    {
+      "name": "alphasense",
+      "url": "https://www.alpha-sense.com/",
+      "url2": ""
+    },
+    {
+      "name": "alpo koskivirta oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "altoros",
+      "url": "https://www.altoros.com/",
+      "url2": ""
+    },
+    {
+      "name": "ambientia",
+      "url": "http://www.ambientia.net/",
+      "url2": ""
+    },
+    {
+      "name": "ambientia group",
+      "url": "http://www.ambientia.net/",
+      "url2": ""
+    },
+    {
+      "name": "ambientia group oy",
+      "url": "http://www.ambientia.net/",
+      "url2": ""
+    },
+    {
+      "name": "amcham finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "amer sports",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "amer sports oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "amersports oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "amersports oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "andritz",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "annalect",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "antti suominen oy / mafy-valmennus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "aplcomp oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "apotti oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "appgyver",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "appgyver oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "apple",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arconnet business solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arcusys oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arek",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arja-liisa linnakangas",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arkkitehtitoimisto ensio takalainen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arnon oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arrow ecs finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arrow ecs finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arrow electronics",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arrowecs finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "arter oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "as oy niemenmäentie 3-5",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "asianajotoimisto castrén & snellman oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "asianajotoimisto hedman partners oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "asml",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "atea",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "atea finland ou",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "atea finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "atk helsinki oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "attido oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "atwork oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "august associates",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "aureolis oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "avarea oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "badenoch & clark suomi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "balentor",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "balentor oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "barona",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "barona technologies",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "basen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "basware",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "basware oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bbo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bdo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "beaufort marketing procurement",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "beckhoff automation oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "benete oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "big data scoring",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "big data solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bilendi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bilot consulting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bittium wireless oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bizmind oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "biztech",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "blc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "blc oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "blc taito",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "blc taito oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "boardman oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "boliden harjavalta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bottega verde",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bps consulting finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bright finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "buildercom oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "button program",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "bådeoch",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "caj eklund",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cap gemini",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "capearc finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "capgemini",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "carea",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "catella property oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "caverion",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "caverion oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cboss oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "centry oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cgi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cgi finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cgi suomi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "chainfrog oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cinia group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cisco systems finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "citrus solutions",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "citrus solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cloud solutions cs oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cloud solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cloud2 oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cocomms",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cocomms oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cognizant",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "combitech oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "comprendum oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "comptel",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "comptel oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "comptel oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "confidex",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "consultant",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "containerships oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "conte oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "coor service management oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "corefiner oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "coriant oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cramo oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "crayon",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "crayon oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "crecco oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "csolutor oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cuppla technology oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "curato partners oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cursor oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cybercom",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "cygate oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "danske bank",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "danske bank a/s",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "danske bank oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "danske bank plc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dassault systemes",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "datacenter finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dataprof oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "delipap oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "deloitte",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "deloitte oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "demos effect",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dentsu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dentsu aegis network",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dentsu aegis network oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "devaten",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digia finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digia finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digia finland oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digia oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digita",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digita oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digital media finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digitalist",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "digitalist group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dingle",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dingle oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "discovery networks finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dittmar & indrenius",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dna",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dna oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "docrates cancer center",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "dustin finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eaton",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eaton power quality oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eckerö line ab oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "edimaster oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eduhouse oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eduskunnan kanslia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eduskunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eera oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eficode",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eilakaisla oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elandz",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "electria, metropolia / vantaan tietohallinto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elinar",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elinar oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elinar oy ltd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elinkeinoelämän keskusliitto ek",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elintarviketurvallisuusvirasto evira",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elisa",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elisa appelsiini",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elisa opyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elisa oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "elomatic oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eläkeyhtiö etera",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "em group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "eminko oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enersense solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enfo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enfo oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enfo rongo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enfo rongo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enfuce",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enics group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enkom active oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "enne analytics",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ep-engineering oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "erikkila oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "erillisverkot oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "esa laulajainen consulting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "espoon kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "espoon kaupunki, konserniesikunta, palvelukehitys",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "esri finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "esri finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "etelä-savon sosiaali-ja terveyspalvelujen ky",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "etera",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "etteplan oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "euroloan oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "european alliance for innovation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "exio capital partners ltd.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "exio capital partners oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "extreme networks",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ey",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "factor nova oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fast development name",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fastems oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fazer",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fazer food services",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fazer food services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fazer group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fennia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fibion oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fim",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finanssiala ry",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finavia oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finceptum oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finch finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fingrid oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finlandia-talo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finnair",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finnair oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finnair plc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finncontainers oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "finnish transport agency (liikennevirasto)",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fira group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fira oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fiskars",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fiskars corporation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fiskars oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fluente kumppanit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fluido oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "forec advisors",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "forenom",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fortum",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fortum oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fortum power and heat oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "forum virium helsinki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fountain park",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fountain park oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "freelancer",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "f-secure",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "f-secure cyber security services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fujitsu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fujitsu finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fujitsu finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "futurice oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fuusio labs oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "fuusiolabs",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "gaia consulting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "gaia leadership",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "glaston finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "glome",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "goliath oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "gottberg services gmbh",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "gpj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "granlund oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "greenpeak oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "gtsoft",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "haaga-helia amk",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "haaga-helia uas",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hahle group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hamk",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "handelsbanken rahoitus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hanken & sse executive education",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hankkija oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hannu kokko",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hans karlsson",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hansel oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hardcoreit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hartman",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hasan & partners",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hasan & partners oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "haus oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "havas finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "havas helsinki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hci productions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "healthia oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hearts & science finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helium finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin ja uudenmaan sairaanhoitopiiri",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin kaupungin taloushallintopalvelu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin kaupunki, kasvatuksen ja koulutuksen toimiala",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin kaupunki, kaupungin kanslia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin opetusvirasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin satama oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin seudun kauppakamari/helsingin kamari oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin sosiaali- ja terveystoimi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin yliopisto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsingin yliopisto, lääketieteellinen tiedekunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsinki analytics oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsinki business hub ltd oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helsinki metropolitan smart & clean foundation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "helvar oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "henki-fennia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "herman it",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "herman it oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "high information systems oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hightec mm",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hintsa performance",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hjp consulting-trading oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hjs advisory / aalto university",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hoiva mehiläinen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hok-elanto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hollming oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "honeywell oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "houston analytics",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "houston analytics ltd.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "houston analytics oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "houston inc.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hsl",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hsy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hus kuntayhtymä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hus tietohallinto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hus-tietohallinto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hus-tukipalvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "häme university of applied sciences",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hämeen ammattikorkeakoulu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "hämeen ammattikorkeakoulu oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "högskolan arcada",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ibm",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iceye",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iceye oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "idean",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "idem",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "idependent consultant",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "if",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "if it services",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "if vahinkovakuutus oyj, suomen sivuliike",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "if vahinkovakuutusyhtiö oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "if vakuutus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "igt",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ilmarinen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "indeo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "index information technologies oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "industryhack",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ingram micro oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innoca group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innofactor",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innofactor oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innofactor plc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innostusvoima oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "innovaatiorahoituskeskus tekes",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "insight360 oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "insta defsec",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "intelligent services",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "intersport finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "invalidisäätiö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "invenco oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ip-only qbrick oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iprospect",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iprospect finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ironman 70.3 finland / ironcoaching oy / finntriathlon",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iss facility services",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iss palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iss palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "istekki oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "it voimala oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "itslearning oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "itä-suomen yliopisto, sosiaali- ja terveysjohtamisen laitos",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "iwa",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jamk",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jibi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "joppl oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jps management",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jt works",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jukkanet",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "julkishallinto: helsingin kaupungin kasvatuksen ja koulutuksen toimiala / city of helsinki, daycare and education",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jyu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "jyväskylän yliopisto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "järvenpään kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "järvinet oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kaita finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kaita finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kansaneläkelaitos",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kari tahvanainen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kaseva consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kauniaisten kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "k-citymarket iso omena",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "k-citymarket sello",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kela",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kela/kanta-palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kemira",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kemira oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kemppi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen eläkevakuutusyhtiö etera",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen eläkevakuutusyhtiö ilmarinen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen työeläkevakuutusyhtiö varma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen työeläkeyhtiö varma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen vakuutusyhtiö fennia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskinäinen vakuutusyhtiö kaleva",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kesko",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kesko oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kesko oyj / k digital",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kesko oyj / k-digital",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keskusrikospoliisi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "keva",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "khshp",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kielibaari",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kilpailu- ja kuluttajavirasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kirkon keskusrahasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "klinik healthcare solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "knowit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kojamo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kojamo oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kone",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kone corporation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kone hissit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kone oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kone suomi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "konecranes",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "konecranes global corporation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "konecranes oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "konehuone",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kopio niini oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kouta media oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kouvola innovation oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kpgm oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kpmg",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kpmg oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kpmg oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kss verkko oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kunnan taitoa oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kuntien tiera oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kuopion kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "kymenlaakson sairaanhoito ja sosiaalipalvelujen kuntayhtymä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "labquality oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lakiasiaintoimisto asiakasturva oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "landis+gyr oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lassila & tikanoja oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "laurea amk",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "laurea-ammattikorkeakoulu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "leaseplan finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "leiki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "leiki oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lekab communication systems ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lemminkäinen infra oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lemminkäinen oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lenovo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lenovo finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lenovo technology b.v. sivuliike suomessa",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "liikenne- ja viestintäministeriö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "liikenne-ja viestintäministeriö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "liikennevirasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "liikkeenjohdon asiantuntijakeskus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lindorff",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lindström oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lingsoft language services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lm ericsson oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "louhia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lvi-wabek oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lähitapiola",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lähitapiola palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lähitapiola palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lähitapiola pääkaupunkiseutu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lähitapiola-ryhmä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "lääketietokeskus oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "maatalousyrittäjien eläkelaitos",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "macgregor finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "management events",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mandatum life",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mandatum life palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mapvision oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "martela",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "maxipoint oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mb rahastot oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "m-brain",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mccann helsinki oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "meallogger",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mediakasvatuskeskus metka",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mediataivas oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mediatalo keskisuomalainen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "medi-it oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mediuutiset",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "medixine oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mehiläinen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mehiläinen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "melbagroup oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "membook oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mercuri urval",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "merilkon oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mervin consulting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "metropolia ammattikorkeakoulu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "metso",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "metso oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "metso shared services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "metsä group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mhoy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "midanos oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mika seppälä tmi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mikko ilari laakkonen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mindcom oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mlp modular learning processes oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "momentous oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mpy palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mpy palvelut oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "msd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "msd finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "msd finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mtv",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mtv oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "muutostieto oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mx electrix oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "my6dimensions oy ltd.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mylab oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "mäntsälän kunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "natasha design ky",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "naturmax oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nauha ry",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "necorpoint oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "negen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "neste",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "neste corporation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "neste oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nestholma oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "netorek oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nets oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "neuromi oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "newco",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "newco yritys helsinki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "newelo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nitor",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nitro",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nitro group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nitro group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nixu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nixu oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nl consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nokia",
+      "url": "https://www.nokia.com/en_int",
+      "url2": ""
+    },
+    {
+      "name": "nokia networks and solutions gmbh & co kg",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nokia oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nokia oyj (nokia solutions and networks)",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nokian tyres plc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nomad solutions",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "none",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordcloud",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordcloud oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordea",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordea bank",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordea bank ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordea bank ab (publ), finnish branch,",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordic morning",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordicmind",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nordisk kellogg finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "norian",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "norian accounting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "not innovated here",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "novartis finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "novasano",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "nut ideas oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "näkövammaisten liitto ry.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oikeusrekisterikeskus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "omakuljettaja",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "omakuljettaja chaffeur service",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "onchannel / expandi group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "onchannel finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "onemed oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "onninen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "onrego oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op financial group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op insurance ltd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op ryhmä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op vakuutus oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op yrityspankki oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "openocean",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op-palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "op-palvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "optirima oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "opuscapita",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "opuscapita group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "orion oyj, orion pharma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "orto consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "osuuspankki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "otava",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "otava-konserni",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oulun kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oulun tietotekniikka",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oulun yliopisto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ouman oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "outokumpu stainless oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "outotec oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oxit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy aga ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy epartners 2010 ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy lillan ab/lillan autotech consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy perkko",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy samlink ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "oy shoulders of giants ltd.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "painopalvelu arkki oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pedab finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pedab finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pehutec",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "people geeks ltd oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "perigeum oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pertti ruosaari oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pfizer",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pfizer oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pfizer pfe finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pihlajalinna",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pihlajalinna oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pisara - jyväskylän energia oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "planmeca group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "planmeca oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pleinert partner",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "polar electro oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "poliisi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "poliisihallitus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "polku innovations oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "posintra oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "posti",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "posti group oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "posti kotipalvelut oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "posti oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "postnord strålfors oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "potmi consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "primera holidays oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "private consultant",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "proagria",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "professa oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "proficium oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "profiport oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "profit up consulting oy ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "projecthings",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "project-it",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "propentus oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pro-source oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "provad oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "proveka oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "puolustusvoimat",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pwc",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pwc finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pwc oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pyhtään kunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "päijät-hämeen hyvinvointikuntayhtymä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "päijät-hämeen hyvinvointiyhtymä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pääesikunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pöyry management consulting",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "pöyry oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qentinel oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qentinel qa oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "q-factory oy / codemen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qitec",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qpr software oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qsaa",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "qvik",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rakennustieto oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ramboll",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ramboll finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rapal oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rd velho",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "redheart entertainment",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "relex",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rexel finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ricoh finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rightware",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rittal oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rogerstudio oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "rw-automaatio",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "s&n osakeyhtiö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "s&p digital",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "saga furs oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "saintpaulia oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sak",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sako ltd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "salesforce",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "samlink",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "samlink oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sanoma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sanoma media finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "santa monica networks",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sap",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sap finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sarkia&co",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "satapirkan sähkö oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "savonlinnan kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sc(fvh)",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "schaeffler finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "schenker oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "schneider electric",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "screen-interactive",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "seaking oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "segmento oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "senaatti-kiinteistöt",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "shantou university",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "shift",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "shift business festival",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "shoulders of giants",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "siemens osakeyhtiö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sigma solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "siili",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "siili solutions",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "siili solutions oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "silo ai",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "silta oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "simanalytics oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sisäministeriö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sitra",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "siun sote",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ska-research oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sks group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "smart internationalization oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "smartblock oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "smartwatcher oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "smash mill oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "soacloud9",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "socfinder oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sofigate",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sofigate oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sofigate services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sofor",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sofor oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "softwareone",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sog",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sogeti",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sogeti finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sok",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sok/suomen osuuskauppojen keskuskunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "soleno oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "solita",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "solita oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "solteq",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "solteq oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "someco",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sovelto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "sovelto oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "space systems finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ssab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ssab ab",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "startup weekend",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "stockholm",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "stora enso",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "stora enso oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "storaenso",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "straquest",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "stratcommunications oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "strategia.design | petri hakanen oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "strygg",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suojelupoliisi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomalainen kirjakauppa",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen asiakastieto oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen erillisverkot",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen itsenäisyyden juhlarahasto sitra",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen konehuone oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen kuntaliitto ry",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen lääkäriliitto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen messut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen pankki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suomen syöpäyhdistys",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "suse suomi",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "svenska handelsbanken",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "swipx",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "symbio",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "symbio finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "symbio finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "syncron tech oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "säästöpankki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "talentadore",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tampere university of technology",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tampereen kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tampereen teknillinen yliopisto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tampereen teknillinen yliopisto, porin yksikkö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tamro",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tamro oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "taplow finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "techcode finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teemu lehtinen",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tekes",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tekes - innovaatiorahoituskeskus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tekniikan akateemiset tek",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teknologian tutkimuskeskus vtt",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teknologian tutkimuskeskus vtt oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teknoware oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tele-expert oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teleste oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia name",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia name finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "telia finland oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teosto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "teradata",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tero karhu",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "terveyden ja hyvinvoinnin laitos",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "the button corporation ltd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "the new york times",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "thth ry",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tiedekeskus heureka",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tieto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tieto finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tieto finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tieto finland oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tieto oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tietohallinto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tilastokeskus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "titansoft oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "t-media oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tmi kim karme",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "toyota auto finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "toyota finance finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "trainers' house oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "transaxiom oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "transearch finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tribered oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tuleva yksityisyrittäjä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tulli",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "tuocon oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "turku energia",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "turku science park oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "turun kauppakorkeakoulu, johtamisen ja yrittäjyydenlaitos, tietojärjestelmätiede",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "turun kaupungin hyvinvointitoimiala",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "turun kaupunki, hyvinvointitoimiala",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "työeläkeyhtiö varma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "työterveyslaitos",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "unicom global finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "university of eastern finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "university of tampere",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "upm",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "upm oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "upm-kymmene oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vaasan oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vaisala",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vaisala oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vakuutuskeskus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valmet",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valo solutions (riovan oy)",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtiokonttori",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtion talous- ja henkilöstöhallinnon palvelukeskus, palkeet",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtion tieto- ja viestintätekniikka keskus valtori",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtion tieto- ja viestintätekniikkakeskus valtori",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtiontalouden tarkastusvirasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtiovarainministeriö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valtori, tuve-palvelut",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valuatum oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valve",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "valve group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vantaan kaupunki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vantaan kaupunki, tietohallinto | city of vantaa, it administration",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wapice oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vapo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "varma",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vattenfall oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "waulis motors ltd",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "webily",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wef global shapers",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "veikkaus",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "veikkaus oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wellmo",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wellness foundry oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wellpro oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wellship oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vero",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "verohallinto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "verohallinto / harmaan talouden selvitysyksikkö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vertical accelerator",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "verticom oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "verticom services oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vetonaula oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "via group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "viasat finland / mtg",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "widian oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vierula consulting oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "viessmann",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "viestintävirasto",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wihuri international oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wim-advisors oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vimma cc oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vincit",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vincit group oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vincit oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "windester oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vine oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "winland espoo oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vmware",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vmware finland",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "voglia oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "woltti group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "woltti group oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "woolman oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "workday finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vr group",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vr group ltd.",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "write technologies oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vtt",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "vtt oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wunder",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wunder finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wärtsilä",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wärtsilä corporation",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "wärtsilä oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "xedu oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "xerox",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yap solutions oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yaskawa finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yit oyj",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yle, the finnish broadcasting name",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yleisradio",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yleisradio oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "yliopiston apteekki",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ylioppilaiden terveydenhoitosäätiö",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "ylioppilastutkintolautakunta",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "you-get finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "zenitel finland oy",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "zztribe",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "(blank)",
+      "url": "",
+      "url2": ""
+    },
+    {
+      "name": "grand total",
+      "url": "",
+      "url2": ""
     }
   ]
 }
